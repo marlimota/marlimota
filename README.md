@@ -5,9 +5,9 @@
     <span>Marli Mota</span>
 </h1>
 
-<p align="justify">Mobile Developer from São Paulo-SP, Brazil. Graduating at Software Development, passionate about mobile development and working with Flutter for almost 3 years.
+<p align="justify">Mobile Developer from São Paulo-SP, Brazil. Graduating at Software Development, passionate about mobile development and working with flutter for the last 3 years.
 <br>
-I love art and technology, some of my hobbies are gaming, watching, reading and studying. </p>
+I love art and technology, some of my hobbies are games, books and running. </p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
