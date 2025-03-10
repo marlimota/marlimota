@@ -5,7 +5,7 @@
     <span>Marli Mota</span>
 </h1>
 
-<p align="justify">Mobile Developer from São Paulo-SP, Brazil. Graduating at Software Development, passionate about mobile development and working with flutter for the last 4 years.
+<p align="justify">Mobile Developer from São Paulo. Graduated in Software Development, passionate about mobile development and working with Flutter for 4 years.
 <br>
 I love art and technology, some of my hobbies are games, books and running. </p>
 <!--
