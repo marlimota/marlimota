@@ -7,7 +7,7 @@
 
 <p align="justify">Mobile Developer from São Paulo. Graduated in Software Development, passionate about mobile development and working with Flutter for 4 years.
 <br>
-I love art and technology, some of my hobbies are games, books and running. </p>
+I love art and technology, some of my hobbies are games and books. </p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
